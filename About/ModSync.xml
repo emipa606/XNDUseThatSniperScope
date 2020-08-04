@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>7b0a5c01-8f16-4328-8718-20ae9f3d6a07</ID>
   <ModName>[XND] Use That Sniper's Scope! (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-

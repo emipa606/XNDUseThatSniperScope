@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[XND] Use That Sniper's Scope! (Continued)</name>
-  	<packageId>Mlie.XNDUseThatSniperScope</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/XNDUseThatSniperScope</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of XeoNovaDans mod for RimWorld 1.1
+  <name>[XND] Use That Sniper's Scope! (Continued)</name>
+  <packageId>Mlie.XNDUseThatSniperScope</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/XNDUseThatSniperScope</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of XeoNovaDans mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541521411
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
