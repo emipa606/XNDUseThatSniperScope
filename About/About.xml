@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[XND] Use That Sniper's Scope! (Continued)</name>
   <packageId>Mlie.XNDUseThatSniperScope</packageId>
@@ -8,40 +8,55 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of XeoNovaDans mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of XeoNovaDans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1541521411
 
-[img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://discord.gg/SuhwVpM
-
-Non-steam version:
-https://github.com/emipa606/XNDUseThatSniperScope
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/XNDUseThatSniperScope][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Direct download from GitHub[github.com] (source[github.com])
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Compatibility
+[h1][b]Compatibility[/b][/h1]
 Not recommended to use this with Combat Extended. Can safely be added to and removed from ongoing savegames.
 
-Though there won't be any issues using this with sniper rifles from mods, the aforementioned sniper rifles will need to be patched in order to give accuracy bonuses.
+Though there won&apos;t be any issues using this with sniper rifles from mods, the aforementioned sniper rifles will need to be patched in order to give accuracy bonuses.
 
 If you find any bugs, please link me to a full output log and give some basic information on how you triggered the bug; this is vital information for me to be able to fix said bugs.
 
-Overview
+[h1][b]Overview[/b][/h1]
 Ever thought that it was silly that whoever uses a sniper rifle never actually took advantage of its scope and ended up having the same sort of accuracy as if they used a weapon with iron sights, despite scopes having this fabled ability to zoom in on targets to enhance accuracy?
 
-Now colonists and raders alike can use their sniper's scope to hit their shots more often at longer distances! In gameplay terms, a sniper rifle now gives the equipping character a shooting accuracy bonus equivalent to having the Careful shooter trait.
+Now colonists and raders alike can use their sniper&apos;s scope to hit their shots more often at longer distances! In gameplay terms, a sniper rifle now gives the equipping character a shooting accuracy bonus equivalent to having the Careful shooter trait.
 
 Happy hunting!
 
-Credits
-Marnador - for their RimWorld-style font
+[h1][b]Credits[/b][/h1]
+[b]Marnador -[/b] for their RimWorld-style font
 
-License
-As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you're doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit's due.</description>
+[h1][b]License[/b][/h1]
+As is standard with my mods: you may include this mod in a mod pack, and you may derive from this, but please inform me if you&apos;re doing so through Ludeon Forums (preferably) or the Steam Comments Section, and give credit where credit&apos;s due.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
